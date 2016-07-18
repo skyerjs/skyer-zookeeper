@@ -1,0 +1,16 @@
+{
+  "name": "skyer-zookeeper",
+  "version": "0.0.1",
+  "description": "skyer framework zookeeper plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skyer",
+    "plugin",
+    "zookeeper"
+  ],
+  "author": "jerrywu",
+  "license": "MIT"
+}
